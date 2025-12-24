@@ -3,7 +3,7 @@
 </audio>
 
 <script>
-  document.addEventListener("pointerdown", () => document.getElementById("blindingLights").play(), { once: true })
+  document.addEventListener("click", () => document.getElementById("blindingLights").play(), { once: true })
 </script>
 
 # Happy Birthday, Neelarghya!
