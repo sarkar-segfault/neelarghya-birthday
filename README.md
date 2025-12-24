@@ -12,5 +12,5 @@ Congratulations on reaching yet another full rotation of this godforsaken planet
 But if this ever becomes too much for you, maybe grab a hajmola.
 
 <small>
-This page was created by Adhrit Sarkar (sarkar-segfault), C.O. Sarkar Services Limited for personal purposes, and is licensed under the GNU General Public License v3.0. You may not copy the contents of this page or share them in any way, shape or form without the almighty hands of judgement grinding you to a pulp of cinders and dust. If there are any licensing issues, pretend I'm not resposible for them. Yes, I stole the Blinding Lights song from elicit sources without prior permission from the authors, now shut up.
+This page was created by Adhrit Sarkar (sarkar-segfault), C.O. Sarkar Services Limited for personal purposes, and is licensed under the GNU General Public License v3.0. You may not copy the contents of this page or share them in any way, shape or form without the almighty hands of judgement grinding you to a pulp of cinders and dust. If there are any licensing issues, pretend I'm not resposible for them. Yes, I stole the Blinding Lights song from illicit sources without prior permission from the authors, please don't tell the cyber-police.
 </small>
