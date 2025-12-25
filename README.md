@@ -3,6 +3,7 @@
 </audio>
 
 <script>
+  document.addEventListener("click", () => document.getElementById("blindingLights").play(), { once: true })
   window.addEventListener("scroll", () => document.getElementById("blindingLights").play(), { once: true })
 </script>
 
