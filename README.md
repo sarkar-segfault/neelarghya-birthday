@@ -4,6 +4,7 @@
 
 <script>
   document.addEventListener("click", () => document.getElementById("blindingLights").play(), { once: true })
+  document.addEventListener("scroll", () => document.getElementById("blindingLights").play(), { once: true })
 </script>
 
 # Happy Birthday, Neelarghya!
